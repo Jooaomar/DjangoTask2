@@ -144,4 +144,4 @@ STATIC_ROOT = os.path.join(BASE_DIR, "staticfiles")
 
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
-CORS_ALLOWED_ORIGINS = ['https://serene-cranachan-7092d3.netlify.app/']
+CORS_ALLOWED_ORIGINS = ['https://serene-cranachan-7092d3.netlify.app/','https://tasks-todo-six.vercel.app/']
